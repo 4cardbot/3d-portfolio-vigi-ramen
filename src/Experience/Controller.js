@@ -605,7 +605,7 @@ export default class Controller
         {
             if(this.logic.buttonsLocked === false && (this.logic.mode === 'aboutMe' || this.logic.mode === 'skills' || this.logic.mode === 'experience'))
             {
-                window.open('https://twitter.com/vaibhavg05', '_blank');
+                window.open('https://x.com/hellovigi_', '_blank');
             }
             
         }
@@ -614,7 +614,7 @@ export default class Controller
         {
             if(this.logic.buttonsLocked === false && (this.logic.mode === 'aboutMe' || this.logic.mode === 'skills' || this.logic.mode === 'experience'))
             {
-                window.open('https://www.linkedin.com/in/vaibhav-goyal-93ba64119/', '_blank');
+                window.open('https://www.linkedin.com/in/hellovigi/', '_blank');
             }
             
         }
@@ -632,7 +632,7 @@ export default class Controller
         {
             if(this.logic.buttonsLocked === false && (this.logic.mode === 'aboutMe' || this.logic.mode === 'skills' || this.logic.mode === 'experience'))
             {
-                window.open('https://news.ycombinator.com/', '_blank');
+                window.open('https://hellovigi.com/', '_blank');
             }
             
         }
